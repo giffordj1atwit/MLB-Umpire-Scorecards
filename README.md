@@ -1,4 +1,4 @@
-# MLB-Umpire-Scorecards
+# MLB Umpire Scorecards: An Analysis
 
 ## Introduction
 The goal of this project was to use the knowledge gained in class to analyze the accuracy of home plate umpires in Major League Baseball. The officiating is often under 
