@@ -1,2 +1,15 @@
 # MLB-Umpire-Scorecards
-Data Science Fundamentals Individual Final Project
+
+## Introduction
+
+## Data Selection
+
+## Methods
+
+## Results
+
+## Discussion
+
+## Code
+
+## Reference
