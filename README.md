@@ -46,8 +46,9 @@ To answer the question at hand, we need to analyze several statistical categorie
 
 - Accuracy
   - Average: 92.42%
-  
-  
+  - Histogram: 
+  ![image](https://user-images.githubusercontent.com/71138022/205470887-a603d4ea-d7a2-44ba-81c6-c3a1790a6c67.png)
+
 
 ## Discussion
 
