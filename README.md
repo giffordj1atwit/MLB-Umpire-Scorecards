@@ -52,7 +52,7 @@ Average: 92.42%
 Total Run Impact
 Average: 1.53 runs
 
-![image](https://user-images.githubusercontent.com/71138022/205470927-0b4c3d3e-c080-4942-89c1-f35a74c1569f.png)
+![image](https://user-images.githubusercontent.com/71138022/205471843-13b54d30-838b-4a63-92bd-d09e5573961c.png)
 
 Home Favored
 Average: 0.03 runs
@@ -82,10 +82,29 @@ their averages for accuracy, accuracy above expected, and consistency, and graph
 
 
 ## Discussion
+From the results, we can make several observations. While the average accuracy of an umpire in the entire dataset is only 92.42%, which is lower than one would hope,
+there are several other areas that show that umpires actually are better than many believe. We see that umpires overperform their expected accuracy more often than
+they underperform. We also see that these two statistics have risen from 2015-2022, implying that umpires have actually gotten better over this time. A similar
+observation can be made in the consistency category. It also seems to have a lower than desirable average, but has not shown any negative trend over the eight
+years of data. However, there is not a notable rise in consistency above the mean of approximately 92%. In fact, any difference in consistency from 2015 to 2022 is 
+negligable. Nevertheless, this data seems to refute the narrative that umpiring has gotten worse over time. Instead, it seems to imply the opposite.
+
+The area where opponents of today's umpiring do see some results that support their ideas is in the run impact category. On average, umpire calls impact a game's
+outcome by 1.53 runs, which is much higher than the ideal 0. This does seem to show some issues in officiating, but this is the only noticeable negative trend in the
+data.
+
+In terms of future research, there are two more studies I would be interested in performing. First is grouping the data by specific umpires, and finding which are
+the best and worse using similar methodology to the above. I would also look into which teams receive better umpiring to determine if there are any anomalies in that 
+area.
 
 ## Summary
+Overall, MLB umpires have an accuracy of about 92%. They also outperform their expected accuracy by an average of 0.14% and have been improving in these statistics
+from 2015 to 2022. Consistency in calls also is about 92%, but there has not been any significant change from 2015 to 2022. Umpires do affect the outcome of a game by
+an average of 1.53 runs, which does indicate some issues. However, while this specific statistic does not reflect well on umpires, the rest of the data seems to show a
+higher quality in officiating than many claim.
 
 ## Code
+https://github.com/giffordj1atwit/MLB-Umpire-Scorecards/blob/main/Individual%20Project.ipynb
 
 ## Reference
 Original dataset: https://www.kaggle.com/datasets/mattop/mlb-baseball-umpire-scorecards-2015-2022
