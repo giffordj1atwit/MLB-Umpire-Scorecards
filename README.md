@@ -26,8 +26,8 @@ is a metric that allows for the "grading" of a home plate umpire during a game. 
 - Correct Calls Above Expected: difference between correct calls and expected correct calls
 - Accuracy: percentage of pitches that were ruled correctly
 - Expected Accuracy
-- Accuracy Above Expected
-- Consistency of calls (measured as percentage
+- Accuracy Above Expected: similar to correct calls above expected
+- Consistency of calls (measured as percentage)
 - Favor Home: Number of runs given in favor of home team as a result of umpire calls
 - Total Run Impact: Number of runs impacted by umpire calls
 
@@ -42,6 +42,12 @@ The primary tools that were used for the analysis of this data were as follows:
 - Jupyter notebook
 
 ## Results
+To answer the question at hand, we need to analyze several statistical categories. The most important categories for determining the quality of an umpire's game are accuracy, total run impact (additionally, we analyzed the favor home stat for similar reasons), accuracy above expected, and consistency). From the data, we discover the following.
+
+- Accuracy
+  - Average: 92.42%
+  
+  
 
 ## Discussion
 
