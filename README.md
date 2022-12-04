@@ -72,6 +72,15 @@ Consistency
 To answer the second part of our question, we need to group the data by the year the game occurred. To do this, we can separate the data into 8 different tables, take 
 their averages for accuracy, accuracy above expected, and consistency, and graph the results, which are shown below.
 
+![image](https://user-images.githubusercontent.com/71138022/205471240-0e0bd1d6-b4e4-4532-9ddf-887c0a8cf85e.png)
+
+
+![image](https://user-images.githubusercontent.com/71138022/205471245-6d227e2f-6d82-46bc-aba0-da5a4e01ca34.png)
+
+
+![image](https://user-images.githubusercontent.com/71138022/205471254-1bfd9ff9-7ef0-491e-a889-848c715bc10e.png)
+
+
 ## Discussion
 
 ## Summary
