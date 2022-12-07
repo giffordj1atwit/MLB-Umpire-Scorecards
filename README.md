@@ -42,7 +42,7 @@ The primary tools that were used for the analysis of this data were as follows:
 - Jupyter notebook
 
 ## Results
-To answer the question at hand, we need to analyze several statistical categories. The most important categories for determining the quality of an umpire's game are accuracy, total run impact (additionally, we analyzed the favor home stat for similar reasons), accuracy above expected, and consistency). From the data, we discover the following.
+To answer the question at hand, we need to analyze several statistical categories. The most important categories for determining the quality of an umpire's game are accuracy, total run impact (additionally, we analyzed the favor home stat for similar reasons), accuracy above expected, and consistency. From the data, we discover the following.
 
 Accuracy
 Average: 92.42%
