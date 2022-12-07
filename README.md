@@ -100,7 +100,7 @@ area.
 ## Summary
 Overall, MLB umpires have an accuracy of about 92%. They also outperform their expected accuracy by an average of 0.14% and have been improving in these statistics
 from 2015 to 2022. Consistency in calls also is about 92%, but there has not been any significant change from 2015 to 2022. Umpires do affect the outcome of a game by
-an average of 1.53 runs, which does indicate some issues. However, while this specific statistic does not reflect well on umpires, the rest of the data seems to show a
+an average of 1.53 runs, which indicates some issues. However, while this specific statistic does not reflect well on umpires, the rest of the data seems to show a
 higher quality in officiating than many claim.
 
 ## Code
