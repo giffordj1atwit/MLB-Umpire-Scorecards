@@ -107,4 +107,4 @@ higher quality in officiating than many claim.
 https://github.com/giffordj1atwit/MLB-Umpire-Scorecards/blob/main/Individual%20Project.ipynb
 
 ## Reference
-Original dataset: https://www.kaggle.com/datasets/mattop/mlb-baseball-umpire-scorecards-2015-2022
+"MLB Baseball Umpire Scorecards (2015 - 2022)", __Advanced Statistics of MLB Baseball Umpire Performance (2015 - 2022)_, Kaggle, 2022, https://www.kaggle.com/datasets/mattop/mlb-baseball-umpire-scorecards-2015-2022. Accessed 3 December 2022.
